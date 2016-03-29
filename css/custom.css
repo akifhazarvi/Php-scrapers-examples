@@ -1,0 +1,101 @@
+h1, h2, dd, body{
+	font-family: 'Raleway', sans-serif !important;
+	color: #727272 !important;
+}
+
+strong{
+	font-weight: 900 !important; 
+}
+
+#lightify{
+	font-weight: 300;
+}
+
+
+.red{
+	background-color: red;
+}
+
+.orange{
+	background-color: orange;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.green{
+	background-color: #2EB82E;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.black{
+	background-color: black;
+}
+
+.center{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+em{
+	font-weight: 300;
+}
+
+
+.voteBtn{
+	width: 100%;
+	margin: auto auto auto auto;
+}
+
+#TelenorLogo{
+	animation-delay:0.4s;
+	-webkit-animation-delay:0.4s;
+}
+
+#MobilinkLogo{
+	animation-delay:0.2s;
+	-webkit-animation-delay:0.2s;
+}
+
+#ZongLogo{
+	animation-delay:0.3s;
+	-webkit-animation-delay:0.3s;
+}
+
+#WaridLogo{
+	animation-delay:0.1s;
+	-webkit-animation-delay:0.1s;	
+}
+
+.UfoneColor{
+	background-color:#F6821F;
+}
+
+.WaridColor{
+	background-color:#0D1F81;
+}
+
+.MobilinkColor{
+	background-color:#E3191F;
+}
+
+.TelenorColor{
+	background-color:#5BB5EB;
+}
+
+.ZongColor{
+	background-color:#005FAC;
+}
+
+.show-for-small-only{
+	margin-bottom: 1em;
+}

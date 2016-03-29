@@ -1,0 +1,27 @@
+thead, .active a{
+	font-family: 'Raleway', sans-serif !important;
+	background: #005FAC !important;
+	color:#fcfcfc !important;
+	font-weight: 400 !important;
+}
+
+th,dd{
+	font-family: 'Raleway', sans-serif !important;
+	font-weight: 400 !important;
+	color: #fcfcfc !important;
+} 
+
+td{
+	width: auto;
+}
+
+table{
+	width: 99%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*hacked-on stuff. This is not really how it is supposed to work. :/;*/
+dd{
+	width: 50%;
+}
